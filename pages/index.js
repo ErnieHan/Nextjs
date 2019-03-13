@@ -6,6 +6,7 @@ function Index() {
     <main>
       <Header />
       <section>
+        <h1>HI this is Ernie Next APP</h1>
         <Link href="/about">
           <a>Go to About Me</a>
         </Link>
