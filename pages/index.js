@@ -3,7 +3,7 @@ import Header from "../components/header";
 
 function Index() {
   return (
-    <main>
+    <main style={{ textAlign: "center" }}>
       <Header />
       <section>
         <h1>HI this is Ernie Next APP</h1>
